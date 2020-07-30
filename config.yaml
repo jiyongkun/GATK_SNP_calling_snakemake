@@ -1,0 +1,8 @@
+samples_csv_file:
+    samples.csv
+reference_genome:
+    data/genome.fa
+mutation_rate:
+    1e-6
+scaffolds_list_file:
+    scaffolds_list.txt
